@@ -1,0 +1,16 @@
+main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;
+}
+.control-panel {
+  display: flex;
+  gap: 5px;
+}
+
+header {
+  display: flex;
+  gap: 5px;
+}
